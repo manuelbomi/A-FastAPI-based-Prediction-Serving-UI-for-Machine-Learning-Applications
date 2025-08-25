@@ -55,14 +55,11 @@ The FastAPI UI will display as shown below:
 <img width="1335" height="688" alt="Image" src="https://github.com/user-attachments/assets/73fcf0a2-345d-4715-9145-9c5b5111d344" />
 ---
 
-You can obtain flower prediction by querying the model with a JSON type flower parameters after clicking on the POST/Predict Get Prediction button.
----
-<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/c69b7867-6431-4817-857f-421e77edab9f" />
----
-
-
+You can obtain flower prediction by querying the model with a JSON type flower parameters after clicking on the  "POST/Predict Get Prediction"    button.
 ---
 <img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/9da3b1bc-3cfc-4e9d-98e3-51f897bcaf81" />
+---
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/c69b7867-6431-4817-857f-421e77edab9f" />
 ---
 <img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/469414cb-6b79-4962-8e9c-5f8ef3be14c3" />
 ---
