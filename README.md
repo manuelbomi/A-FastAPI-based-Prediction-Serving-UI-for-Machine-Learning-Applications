@@ -14,17 +14,24 @@ Use pip install -r requirements.txt to install the requirements.
 ---
 Below are brief explanations regarding how the project works:
 
-✅ 1	Train and save the ML model
+✅ 1	Train and save the ML model. On your VSCode terminal, run the script 
+
+...
+python model/train_model.py
+...
+
+to generate the model:
 
 ✅ 2	Build FastAPI app to serve predictions
 
-✅ 3	Run with Uvicorn in VSCode by using the command:   uvicorn app.main:app --reload
+✅ 3	Run with Uvicorn in VSCode by using the command:   
+...
+uvicorn app.main:app --reload
+...
 
 ✅ 4	Test using Swagger UI
 ---
 Below is the project structure:
-
-
 ---
 <img width="501" height="275" alt="Image" src="https://github.com/user-attachments/assets/e0672f48-4169-43e5-9b32-9f5b115ab713" />
 
