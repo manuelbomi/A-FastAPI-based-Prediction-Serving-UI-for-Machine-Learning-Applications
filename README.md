@@ -13,6 +13,7 @@ To run the project, clone it into a virtual environment on your local machine.
 Use pip install -r requirements.txt to install the requirements.
 ---
 Below are brief explanations regarding how the project works:
+---
 
 ✅ 1	Train and save the ML model. On your VSCode terminal, run the script 
 
@@ -34,8 +35,15 @@ uvicorn app.main:app --reload
 Below is the project structure:
 ---
 <img width="501" height="275" alt="Image" src="https://github.com/user-attachments/assets/e0672f48-4169-43e5-9b32-9f5b115ab713" />
+---
 
+After running the scipts with 
 
+...
+python model/train_model.py
+...
+
+You can access the FastAPI UI by typing: uvicorn app.main:app --reload on your VSCode terminal. You will be able to access your FastAPI instance on: http://127.0.0.1:8000 
 ---
 <img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/c69b7867-6431-4817-857f-421e77edab9f" />
 ---
