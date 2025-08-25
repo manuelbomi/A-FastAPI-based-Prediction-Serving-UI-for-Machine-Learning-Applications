@@ -45,12 +45,20 @@ You can access the FastAPI UI by typing:
 ---
 uvicorn app.main:app --reload 
 ---
-on your VSCode terminal. You will be able to access your FastAPI instance on: http://127.0.0.1:8000 
+on your VSCode terminal. 
 ---
-<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/c69b7867-6431-4817-857f-421e77edab9f" />
+You will be able to access your FastAPI instance on: http://127.0.0.1:8000 
+---
+The FastAPI UI will display as shown below:
+
 ---
 <img width="1335" height="688" alt="Image" src="https://github.com/user-attachments/assets/73fcf0a2-345d-4715-9145-9c5b5111d344" />
 ---
+
+
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/c69b7867-6431-4817-857f-421e77edab9f" />
+---
+
 
 ---
 <img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/9da3b1bc-3cfc-4e9d-98e3-51f897bcaf81" />
