@@ -24,12 +24,17 @@ Below are brief explanations regarding how the project works:
 ---
 Below is the project structure:
 
+
+---
+<img width="501" height="275" alt="Image" src="https://github.com/user-attachments/assets/e0672f48-4169-43e5-9b32-9f5b115ab713" />
+
+
 ---
 <img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/c69b7867-6431-4817-857f-421e77edab9f" />
 ---
 <img width="1335" height="688" alt="Image" src="https://github.com/user-attachments/assets/73fcf0a2-345d-4715-9145-9c5b5111d344" />
 ---
-<img width="501" height="275" alt="Image" src="https://github.com/user-attachments/assets/e0672f48-4169-43e5-9b32-9f5b115ab713" />
+
 ---
 <img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/9da3b1bc-3cfc-4e9d-98e3-51f897bcaf81" />
 ---
