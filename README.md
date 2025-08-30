@@ -1,4 +1,4 @@
-# A FastAPI based Prediction Serving UI for Machine Learning Predcition
+# A FastAPI based Prediction Serving UI for Machine Learning Applications
 ## ✅ Project Overview
 
 This is a simple project where FastAPI is used to serve machine learning prediction. 
